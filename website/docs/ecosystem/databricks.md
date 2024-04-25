@@ -1,6 +1,6 @@
 # Databricks
 
-![Databricks Data Intelligence Platform](img/ecosystem-databricks.png)
+![Databricks Data Intelligence Platform](https://cms.databricks.com/sites/default/files/inline-images/blog-marketecture-1.png)
 
 The [Databricks Data Intelligence Platform ](https://www.databricks.com/product/data-intelligence-platform) allows your entire organization to use data and AI. It’s built on a lakehouse to provide an open, unified foundation for all data and governance, and is powered by a Data Intelligence Engine that understands the uniqueness of your data. 
 
